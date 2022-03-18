@@ -1,0 +1,57 @@
+{
+    "listaProductos":[
+        {
+            "titulo": "Camiseta",
+            "imagen": "https://www.peoplesapiens.es/wp-content/uploads/2016/03/dan1.jpg",
+            "descripcion": "Camiseta Modern Azul",
+            "precio": "10",
+            "stock":"6"
+        },
+        {
+            "titulo": "Remera",
+            "imagen": "https://www.peoplesapiens.es/wp-content/uploads/2016/03/dan.jpg",
+            "descripcion": "Camiseta Modern Ultra",
+            "precio": "20",
+            "stock":"4"
+
+
+        },
+        {
+            "titulo":"Short",
+            "imagen": "https://www.peoplesapiens.es/wp-content/uploads/2016/03/fly.jpg",
+            "descripcion":"MegaFlex Modern Lycra",
+            "precio":"30 ",
+            "stock":"3"
+
+        },
+        {
+            "titulo":"Calcetín",
+            "imagen": "https://www.peoplesapiens.es/wp-content/uploads/2016/03/ant.jpg",
+            "descripcion":"Running",
+            "precio":"40",
+            "stock":"2"
+
+
+
+        },
+        {
+            "titulo":"Calcetín",
+            "imagen": "https://www.peoplesapiens.es/wp-content/uploads/2016/03/ant3.jpg",
+            "descripcion":"Sleep",
+            "precio":"50",
+            "stock":"2"
+
+
+        },
+        {
+            "titulo":"Calcetín",
+            "imagen": "https://www.peoplesapiens.es/wp-content/uploads/2016/03/ant5.jpg",
+            "descripcion":"Gym",
+            "precio":"60",
+            "stock":"1"
+
+
+        }
+
+    ]
+}
